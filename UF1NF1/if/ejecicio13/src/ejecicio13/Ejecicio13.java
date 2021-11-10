@@ -34,6 +34,8 @@ public class Ejecicio13 {
         {
         System.out.println("el orden es " + n2 + " y " + n1);
         }
+        
+        System.out.println("si");
     }
     
 }
